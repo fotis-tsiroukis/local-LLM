@@ -74,4 +74,5 @@ echo.
 
 REM -- Auto-open the browser for convenience 
 start http://localhost:3000 
+
 pause
