@@ -1,3 +1,5 @@
+![Local LLM image](llm.jpg)
+
 # local-LLM
 This project is an offline, portable LLM that can search for answers in a collection of PDF files that I will provide. The reason behind that was to create an AI assistant that you can carry with you everywhere, without any loss in functionality, that is offline for reasons of privacy and lack of limitaions on input and that can read a given body of knowledge for industry specific advice. So I created this step-by-step guide to assist also others who want to do the same.
 
